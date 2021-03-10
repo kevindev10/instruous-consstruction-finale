@@ -1,0 +1,26 @@
+
+
+
+
+@media(min-width:703px) {
+	.card-styling{
+		display: flex;
+		justify-content: center;
+	}
+
+}
+
+
+@media(max-width:702px) {
+	.for-mobile-main{
+		margin:5px !important;
+
+		padding: 5px !important;
+	}
+
+	.for-mobile{
+		width: 100% !important;
+		height: 265px;
+
+	}
+}

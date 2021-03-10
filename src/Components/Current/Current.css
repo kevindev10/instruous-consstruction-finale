@@ -1,0 +1,24 @@
+.type1{
+    outline: 0px;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 3px solid black;
+    
+    
+}
+
+.submit-button-main .submit-button{
+	border:3px solid black;
+	width: 200px;
+}
+
+.submit-button-main .submit-button:hover{
+	background-color: black;
+	color:white;
+	border-radius:0px;
+}
+.submit-button-main .submit-button:active{
+	
+	border-radius:0 !important;
+}
