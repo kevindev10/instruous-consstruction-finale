@@ -80,7 +80,7 @@ function Contact() {
 					        </div>
 
 
-						     <button type="submit" className='btn btn-lg btn-dark btn-block ml0 ma3 pa3 w-60 br1 shadow-5 '>Send</button>
+						     <button type="submit" className='btn btn-lg btn-dark btn-block ml0 ma3 pa3 w-60 br1 shadow-5 f3 '>Send</button>
 						</form>
 				  	</div>
 
