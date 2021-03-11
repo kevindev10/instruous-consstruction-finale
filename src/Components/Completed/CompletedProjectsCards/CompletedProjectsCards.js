@@ -21,7 +21,7 @@ function CompletedProjectsCards() {
 			<div>
 
 				<div className='card-styling ' >
-					<Link to='/completedone' className='no-underline'>
+					<Link to='/com1' className='no-underline'>
 						<div  className='ma4 for-mobile-main link pointer' >
 							
 							<article  className="br2 ba dark-gray b--black-10  ">
@@ -47,7 +47,7 @@ function CompletedProjectsCards() {
 						</div>
 					</Link>	
 
-					<Link to='/completedtwo' className='no-underline' >
+					<Link to='/com2' className='no-underline' >
 						<div className='ma4 for-mobile-main link pointer'>
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -80,7 +80,7 @@ function CompletedProjectsCards() {
 
 
 				<div className='card-styling ' >
-					<Link to='/completedthree' className='no-underline' >
+					<Link to='/com3' className='no-underline' >
 						<div className='ma4  for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -106,7 +106,7 @@ function CompletedProjectsCards() {
 					</Link>	
 					
 
-					<Link to='/completedfour' className='no-underline'>		
+					<Link to='/com4' className='no-underline'>		
 						<div className='ma4 for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -136,7 +136,7 @@ function CompletedProjectsCards() {
 
 
 				<div className='card-styling ' >
-					<Link to='/completedfive' className='no-underline' >
+					<Link to='/com5' className='no-underline' >
 						<div className='ma4 for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -162,7 +162,7 @@ function CompletedProjectsCards() {
 						</div>
 					</Link>	
 
-					<Link to='/completedsix' className='no-underline' >
+					<Link to='/com6' className='no-underline' >
 						<div className='ma4 for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -192,7 +192,7 @@ function CompletedProjectsCards() {
 
 
 				<div className='card-styling ' >
-					<Link to='/completedseven' className='no-underline'>
+					<Link to='/com7' className='no-underline'>
 						<div className='ma4 for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -217,7 +217,7 @@ function CompletedProjectsCards() {
 						</div>
 					</Link>	
 
-					<Link to='/completedeight' className='no-underline' >
+					<Link to='/com8' className='no-underline' >
 						<div className='ma4 for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -249,7 +249,7 @@ function CompletedProjectsCards() {
 
 
 				<div className='card-styling '>
-					<Link to='/completednine'  className='no-underline'>
+					<Link to='/com9'  className='no-underline'>
 						<div className='ma4 for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">
@@ -278,7 +278,7 @@ function CompletedProjectsCards() {
 						</div>
 					</Link>	
 
-					<Link to='/completedten' className='no-underline' >
+					<Link to='/com10' className='no-underline' >
 						<div className='ma4 for-mobile-main link pointer' >
 							
 							<article className="br2 ba dark-gray b--black-10  ">

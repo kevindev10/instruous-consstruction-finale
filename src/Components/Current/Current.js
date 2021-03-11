@@ -51,7 +51,7 @@ function Current() {
 				<div className='card-styling ' >
 
 					<div  className='ma4 for-mobile-main link pointer' >
-						<Link  to='/currentone' className='no-underline black '>
+						<Link  to='/cur1' className='no-underline black '>
 							<article  className="br2 ba dark-gray b--black-10  ">
 							  <img src={current1} width='700' height='400px'  className="for-mobile db  br2 br--top" alt="Current project one."/>
 							  <div className="pa2 ph3-ns pb3-ns">
@@ -61,6 +61,9 @@ function Current() {
 							      </div>
 							      
 							    </div>
+							    <div className="dtc">
+							        <h1 className="f4 f4-ns mv0 athelas pv3 gray ">Retail & Hospitailty Construction</h1>
+							     </div>
 							    <p className="measure mt2 mid-gray athelas lh-copy mobile-display-font-size-paragraph f4  ">
 							      	 Initially 9,799m2, Galleria Futura Mall was expanded to approximately 11,167m2
 					      by increasing the floor size of the existing Dominikanska Supermarket by approximately 2,500m2,
@@ -76,7 +79,7 @@ function Current() {
 
 					<div className='ma4 for-mobile-main link pointer' >
 						<article className="br2 ba dark-gray b--black-10  ">
-							<Link  to='/currenttwo' className='no-underline black '>
+							<Link  to='/cur2' className='no-underline black '>
 							  <img src={current2} width='700' height='400px'  className="for-mobile db  br2 br--top" alt="Current project two"/>
 							  <div className="pa2 ph3-ns pb3-ns">
 							    <div className="dt w-100 mt1">
@@ -85,6 +88,9 @@ function Current() {
 							      </div>
 							      
 							    </div>
+							    <div className="dtc">
+							        <h1 className="f4 f4-ns mv0 athelas pv3 gray ">Aged Care Construction</h1>
+							     </div>
 							    <p className="measure mt2 mid-gray athelas lh-copy mobile-display-font-size-paragraph f4   ">
 							      	 Designed by Hus-Larsen Arkitekter, the new aged care facility on
 							       Assensvej Road delivered Middlefart an outstanding facility for elderly residents, 
@@ -100,7 +106,7 @@ function Current() {
 
 					<div  className='ma4 for-mobile-main link pointer' >
 						<article  className="br2 ba dark-gray b--black-10  ">
-							<Link  to='/currentthree' className='no-underline black '>
+							<Link  to='/cur3' className='no-underline black '>
 							  <img src={current3} width='700' height='400px'  className="for-mobile db  br2 br--top" alt="Current project three"/>
 							  <div className="pa2 ph3-ns pb3-ns">
 							    <div className="dt w-100 mt1">
@@ -109,6 +115,9 @@ function Current() {
 							      </div>
 							      
 							    </div>
+							    <div className="dtc">
+							        <h1 className="f4 f4-ns mv0 athelas pv3 gray ">Education Construction</h1>
+							     </div>
 							    <p className="measure mt2 mid-gray athelas lh-copy mobile-display-font-size-paragraph f4   ">
 							      	 KolKhoz University is a brand-new government university  on Ataturk Street.
 						  We were short-listed through an EOI process and won the project on competitive
@@ -122,7 +131,7 @@ function Current() {
 
 					<div className='ma4 for-mobile-main link pointer' >
 						<article className="br2 ba dark-gray b--black-10  ">
-							<Link  to='/currentfour' className='no-underline black '>
+							<Link  to='/cur4' className='no-underline black '>
 							  <img src={current4} width='700' height='400px'  className="for-mobile db  br2 br--top" alt="Current project four"/>
 							  <div className="pa2 ph3-ns pb3-ns">
 							    <div className="dt w-100 mt1">
@@ -131,6 +140,9 @@ function Current() {
 							      </div>
 							      
 							    </div>
+							    <div className="dtc">
+							        <h1 className="f4 f4-ns mv0 athelas pv3 gray ">Industrial Construction</h1>
+							     </div>
 							    <p className="measure mt2 mid-gray athelas lh-copy mobile-display-font-size-paragraph f4   ">
 							      	 This project involved the construction of an 9800m2 factory / warehouse facility consisting of a 
 					      heavy-duty slab-on-ground, structural steel portal frame, tilt concrete panels and steel framed, 

@@ -40,12 +40,6 @@
 
 
 
-
-
-/*
-//////////////////////////////////////
-*/
-
 .dropdown-content {
 
   display: none;
@@ -96,27 +90,3 @@
 	}
 	
 }
-
-/*#312B29*/
-
-
-
-
-
-/*@media(max-width: 703px) {
-    .dropdown button:hover {
-        background-color: black !important;
-    }
-}*/
-
-
-
-/*.dropdown button{
-	background: none;
-	color: inherit;
-	border: none;
-	padding: 0;
-	font: inherit;
-	cursor: pointer;
-	outline: inherit;
-}*/

@@ -24,10 +24,13 @@ function Completedtwo() {
 				</p>
 				<p className='f3 home-about-link when-on-mobile-routing'>/</p>
 				<p className='grow link f3 home-about-link pointer when-on-mobile-routing '>
-					<Link to='/completedtwo' className='black no-underline'>Completed Two</Link>
+					<Link to='/completedtwo' className='black no-underline'>Green Arces Retirement Village</Link>
 				</p>
 			</div>
 			<div className ='when-on-mobile' >
+				<h2 className="f3 gray  mb4 center fw7 ml4 ">
+				      AGED CARE CONSTRUCTION
+				</h2>
 				
 				<article className="cf ph3 ph4-ns pv3">
 				<header className="fn fl-ns w-50-ns pr4-ns">

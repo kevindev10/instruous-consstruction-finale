@@ -102,34 +102,34 @@ class App extends Component  {
                       <Completed/>
                     </Route>
                         
-                        <Route  path="/completedone">
+                        <Route  path="/com1">
                           <Completedone/>
                         </Route>
-                        <Route path="/completedtwo">
+                        <Route path="/com2">
                           <Completedtwo/>
                         </Route>
-                        <Route path="/completedthree">
+                        <Route path="/com3">
                           <Completedthree/>
                         </Route>
-                        <Route path="/completedfour">
+                        <Route path="/com4">
                           <Completedfour/>
                         </Route>
-                        <Route path="/completedfive">
+                        <Route path="/com5">
                           <Completedfive/>
                         </Route>
-                        <Route path="/completedsix">
+                        <Route path="/com6">
                           <Completedsix/>
                         </Route>
-                        <Route path="/completedseven">
+                        <Route path="/com7">
                           <Completedseven/>
                         </Route>
-                        <Route path="/completedeight">
+                        <Route path="/com8">
                           <Completedeight/>
                         </Route>
-                        <Route path="/completednine">
+                        <Route path="/com9">
                           <Completednine/>
                         </Route>
-                        <Route path="/completedten">
+                        <Route path="/com10">
                           <Completedten/>
                         </Route>
                         
@@ -139,16 +139,16 @@ class App extends Component  {
                     <Route path="/current">
                       <Current/>
                     </Route>
-                         <Route path="/currentone">
+                         <Route path="/cur1">
                             <Currentone/>
                          </Route>
-                         <Route path="/currenttwo">
+                         <Route path="/cur2">
                             <Currenttwo/>
                          </Route>
-                         <Route path="/currentthree">
+                         <Route path="/cur3">
                             <Currentthree/>
                          </Route>
-                         <Route path="/currentfour">
+                         <Route path="/cur4">
                             <Currentfour/>
                          </Route>
                     <Route exact path="/">

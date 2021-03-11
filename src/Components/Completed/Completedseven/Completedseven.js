@@ -29,7 +29,9 @@ function Completedseven() {
 				</p>
 			</div>
 			<div className ='when-on-mobile' >
-				
+				<h2 className="f3 gray  mb4 center fw7 ml4 ">
+				      FITOUT
+				</h2>
 				<article className="cf ph3 ph4-ns pv3">
 				<header className="fn fl-ns w-50-ns pr4-ns">
 				    <h1 className="f2 lh-title fw9 mb5 mt0  ">

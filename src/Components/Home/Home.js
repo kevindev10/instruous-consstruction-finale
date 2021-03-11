@@ -42,7 +42,7 @@ function Home() {
 
 
 
-				<Link to='/completedone' className='no-underline' >
+				<Link to='/com1' className='no-underline' >
 					<div className='pa1'>
 					<p 
 					className="link  pointer dt  br2 cover bg-center" 
@@ -59,7 +59,7 @@ function Home() {
 					</div>
 				</Link>
 
-				<Link to='/completedtwo' className='no-underline' >
+				<Link to='/com2' className='no-underline' >
 					<div className='pa1'>
 						<p 
 						className="link pointer dt  br2 cover bg-center" 
@@ -77,7 +77,7 @@ function Home() {
 				</Link>
 
 
-				<Link to='/completedthree' className='no-underline' >
+				<Link to='/com3' className='no-underline' >
 					<div className='pa1'>
 						<p 
 						 className="link pointer dt  br2 cover bg-center" 

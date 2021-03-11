@@ -27,12 +27,17 @@ function Currentone() {
 				</p>
 			</div>
 			<div className ='when-on-mobile' >
+				<h2 className="f3 gray  mb4 center fw7 ml4 ">
+				      RETAIL & HOSPITALITY CONSTRUCTION
+				</h2>
 				
 				<article className="cf ph3 ph4-ns pv3">
 				<header className="fn fl-ns w-50-ns pr4-ns">
+					
 				    <h1 className="f2 lh-title fw9 mb5 mt0  ">
 				      Galleria Futura Mall
 				    </h1>
+				    
 				    <h2 className="f3 mid-gray lh-title mt0  fw9 ml4 ">
 				      Location
 				    </h2>

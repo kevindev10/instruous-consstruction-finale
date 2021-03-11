@@ -76,16 +76,16 @@ const SideNavbar = ({close,sideBarOpen}) => {
 								<NavLink link to='/current' className='no-underline link white'>	CURRENT</NavLink>
 							</p>
 					        <p>
-					        	<NavLink link to='/currentone' className='no-underline link white'>CURRENT ONE</NavLink>
+					        	<NavLink link to='/cur1' className='no-underline link white'>RETAIL & HOSPITALITY</NavLink>
 					       </p>
 					        <p>
-					        	<NavLink link to='/currenttwo' className='no-underline link white'>CURRENT TWO</NavLink>
+					        	<NavLink link to='/cur2' className='no-underline link white'>AGED CARE</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/currentthree' className='no-underline link white'>CURRENT THREE</NavLink>
+					        	<NavLink link to='/cur3' className='no-underline link white'>EDUCATION</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/currentfour' className='no-underline link white'>CURRENT FOUR</NavLink>
+					        	<NavLink link to='/cur4' className='no-underline link white'>INDUSTRIAL</NavLink>
 					        </p>
 					        
 					     </div>
@@ -98,34 +98,34 @@ const SideNavbar = ({close,sideBarOpen}) => {
 								<NavLink link to='/completed' className='no-underline link white'>COMPLETED</NavLink>
 							</p>
 					        <p>
-					        	<NavLink link to='/completedone' className='no-underline link white'>COMPLETED ONE</NavLink>
+					        	<NavLink link to='/com1' className='no-underline link white'>RETAIL & HOSPITALITY</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedtwo' className='no-underline link white'>COMPLETED TWO</NavLink>
+					        	<NavLink link to='/com2' className='no-underline link white'>AGED CARE</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedthree' className='no-underline link white'>COMPLETED THREE</NavLink>
+					        	<NavLink link to='/com3' className='no-underline link white'>EDUCATION</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedfour' className='no-underline link white'>COMPLETED FOUR</NavLink>
+					        	<NavLink link to='/com4' className='no-underline link white'>INDUSTRIAL</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedfive' className='no-underline link white'>COMPLETED FIVE</NavLink>
+					        	<NavLink link to='/com5' className='no-underline link white'>APARTMENT $ MIXED USE</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedsix' className='no-underline link white'>COMPLETED SIX</NavLink>
+					        	<NavLink link to='/com6' className='no-underline link white'>COMMERCIAL + OFFICE</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedseven' className='no-underline link white'>COMPLETED SEVEN</NavLink>
+					        	<NavLink link to='/com7' className='no-underline link white'>FITOUT</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedeight' className='no-underline link white'>COMPLETED EIGHT</NavLink>
+					        	<NavLink link to='/com8' className='no-underline link white'>COMMUNITIES</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completednine' className='no-underline link white'>COMPLETED NINE</NavLink>
+					        	<NavLink link to='/com9' className='no-underline link white'>RETAIL & HOSPITALITY</NavLink>
 					        </p>
 					        <p>
-					        	<NavLink link to='/completedten' className='no-underline link white'>COMPLETED TEN</NavLink>
+					        	<NavLink link to='/com10' className='no-underline link white'>INDUSTRIAL</NavLink>
 					        </p>
 					        
 					     </div>
