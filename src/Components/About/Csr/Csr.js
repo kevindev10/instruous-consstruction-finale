@@ -103,7 +103,7 @@ function Csr() {
 					</div>
 				
 					<div className=" ph3 ph5-m ph6-l mid-gray">
-					  <small className="f6 db tc">Website by <a href='https://web.facebook.com/kevozzz' target='blank' className='no-underline link gray dim pointer f5 '> Kevin Creative Solutions </a> </small>
+					  <small className="f6 db tc">Website by <a href='https://web.facebook.com/profile.php?id=100069367287056' target="_blank" rel="noreferrer"  className='no-underline link gray dim pointer f5 '> Flex DevsKe </a> </small>
 					</div>  
 				
 			    </div>

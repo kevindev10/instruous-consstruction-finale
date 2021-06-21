@@ -6,7 +6,7 @@
 	z-index: 300;
 	top:0;
 	left:0;
-	width: 230px;
+	width: 250px !important;
 	transform:translateX(-100%);
 	transition: transform 0.4s;
 }
@@ -82,8 +82,10 @@
 	.dropdown-content{
 		margin-top:0px !important;
 		overflow: auto;
-		width: 210px;
-  		height: 190px !important;
+		width: 310px;
+  		height: 300px !important;
+  		padding-left: 40px;
+  		font-size: 17px ;
 	}
 	.dropbtn{
 		font-size: 17px ;
