@@ -102,7 +102,7 @@ function Home() {
 
 
 				<div className='projects-mobile '>
-					<Link to='/completedone' className='no-underline black' >
+					<Link to='/com1' className='no-underline black' >
 						<div className='mb2 '>
 							<p  className="  center  mb0 link br cover  bg-center   " 
 								style ={{ backgroundImage: "url("+completed1+")" ,
@@ -116,7 +116,7 @@ function Home() {
 						</div>
 					</Link>
 
-					<Link to='/completedtwo' className='no-underline black' >
+					<Link to='/com2' className='no-underline black' >
 						<div className='mb2'>
 							<p  className=" center  mb0 link   dt hide-child br cover bg-center" 
 								style ={ { backgroundImage: "url("+completed2+")" ,
@@ -129,7 +129,7 @@ function Home() {
 						</div>
 					</Link>
 
-					<Link to='/completedthree' className='no-underline black'>
+					<Link to='/com3' className='no-underline black'>
 						<div className='mb2'>
 							<p className=" center  mb0 link dt hide-child cover br bg-center" 
 								style ={ { backgroundImage: "url("+completed3+")" ,
