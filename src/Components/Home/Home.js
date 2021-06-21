@@ -101,7 +101,6 @@ function Home() {
 			<div>
 
 
-
 				<div className='projects-mobile '>
 					<Link to='/completedone' className='no-underline black' >
 						<div className='mb2 '>
